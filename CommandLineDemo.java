@@ -6,7 +6,7 @@ public class CommandLineDemo {
 
         for(int i=0; i<len; i++)
         {
-            System.out.print(d[i] + " ");
+            System.out.print(d[i] + "  ");
         }
     }
 }
