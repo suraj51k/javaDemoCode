@@ -1,3 +1,5 @@
+import java.io.*;
+
 class Demo1
 {
     public static void functionDemo1()
